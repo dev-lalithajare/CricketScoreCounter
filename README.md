@@ -52,5 +52,7 @@ This project is licensed under the MIT License.
 Feel free to reach out if you have any questions or suggestions.
 
 Name: Lalit Hajare
+
 Email: dev.lalithajare@gmail.com
+
 GitHub: dev-lalithajare
