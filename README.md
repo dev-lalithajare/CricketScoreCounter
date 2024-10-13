@@ -1,6 +1,6 @@
 **CricketScoreCounter**
 
-A demonstration project for a hotel's order and billing system
+A demonstration project for maintaing state, counting score, analysis and display of certain statistics of a cricket match.
 
 **Table of Contents**
 
